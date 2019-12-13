@@ -1,7 +1,8 @@
 
-### A virtuous flood for the architectural project
+# A virtuous flood for the architectural project
 
 
+![](X.png?raw=true)
 
 My project in Ile de France in the town of Villeneuve Saint George is located on a flood zone. So why not turn this factor into a strong point for our project?
 So, how can we build quality homes that are resilient and safe, but above all that blend harmoniously into the local urban fabric?
